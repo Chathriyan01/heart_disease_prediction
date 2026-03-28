@@ -1,8 +1,6 @@
 # ❤️ Heart Disease Prediction App 
 A Streamlit-based Machine Learning web application that predicts the risk of heart disease based on key medical input features. The app uses a trained Logistic Regression model and provides confidence scores, risk levels, and visual probability charts.
 
----
-
 ## 🚀 Features
 - Predict heart disease using ML  
 - Clean UI with sliders & dropdowns  
@@ -16,10 +14,10 @@ A Streamlit-based Machine Learning web application that predicts the risk of hea
 
 ## 📦 Project Structure
 
-heart_app.py
-heart_disease_model.pkl
-heart_scaler.pkl
-requirements.txt
+ - heart_app.py
+ - heart_disease_model.pkl
+ - heart_scaler.pkl
+ - requirements.txt
 
 
 ---
@@ -31,7 +29,7 @@ requirements.txt
 pip install -r requirements.txt
 2. Run the app
 streamlit run heart_app.py
-
+```
 🧪 Model Details
 Model: Logistic Regression
 Dataset: 303 patient records
@@ -44,7 +42,6 @@ Confidence percentage
 Risk level: Low / Medium / High
 Probability bar chart
 Input summary table
-```
 
 ⚠️ Disclaimer
 This app is for educational purposes only and not a substitute for professional medical diagnosis.
