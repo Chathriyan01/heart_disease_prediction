@@ -31,12 +31,14 @@ pip install -r requirements.txt
 streamlit run heart_app.py
 ```
 🧪 Model Details
+
 Model: Logistic Regression
 Dataset: 303 patient records
 Accuracy: ~85%
 Features Used: 13 medical attributes
 
 📊 Output Provided
+
 Prediction: Healthy or Disease Risk
 Confidence percentage
 Risk level: Low / Medium / High
