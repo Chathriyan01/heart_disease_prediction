@@ -32,18 +32,18 @@ streamlit run heart_app.py
 ```
 🧪 Model Details
 
-Model: Logistic Regression
-Dataset: 303 patient records
-Accuracy: ~85%
-Features Used: 13 medical attributes
+ Model: Logistic Regression
+ Dataset: 303 patient records
+ Accuracy: ~85%
+ Features Used: 13 medical attributes
 
 📊 Output Provided
 
-Prediction: Healthy or Disease Risk
-Confidence percentage
-Risk level: Low / Medium / High
-Probability bar chart
-Input summary table
+ Prediction: Healthy or Disease Risk
+ Confidence percentage
+ Risk level: Low / Medium / High
+ Probability bar chart
+ Input summary table
 
 ⚠️ Disclaimer
-This app is for educational purposes only and not a substitute for professional medical diagnosis.
+ This app is for educational purposes only and not a substitute for professional medical diagnosis.
